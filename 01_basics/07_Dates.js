@@ -24,3 +24,9 @@ console.log(newDate);
 console.log(newDate.getDate());
 console.log(newDate.getMonth());
 console.log(newDate.getDay());
+
+// `${newDate.getDay()} and the time`
+
+newDate.toLocaleString('default',{
+    weekday:"long"
+})
