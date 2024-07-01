@@ -72,6 +72,3 @@ Contributions are welcome! If you have any improvements, new examples, or bug fi
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to edit and expand upon this template to better fit the specifics of your repository.
